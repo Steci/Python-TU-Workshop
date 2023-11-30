@@ -188,4 +188,6 @@ Vous pouvez toujours developper vos tests en python...
 
 Maintenant, si vous avez fait des projets en maths en python je vous invite a tester des maintenant votre projet par vous meme.
 
+Vous pouvez aussi automatiser la creation de test unitaire avec un json 👀. Je vous laisse chercher par vous meme et demander pendant le workshop c'est quoi....
+
 Bravo a vous pour avoir fini ce workshop, en esperant voir des beaux code python bien tester prochainement. ✨
