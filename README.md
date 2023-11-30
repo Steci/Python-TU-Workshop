@@ -133,8 +133,7 @@ class lib:
         return length
 
     def my_list_append(self, string: str) -> list:
-        my_list.append(string)
-        return my_list
+        self.my_list.append(string)
 
     def is_pair(self, number: int) -> bool:
         if number % 2 == 0:
